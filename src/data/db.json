@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "fist-name": "admin",
+      "last-name": "admin",
+      "password": "admin",
+      "username": "amdin",
+      "email": "admin@gmail.com",
+      "id": "1"
+    },
+    {
+      "id": "cd2a",
+      "username": "admin3",
+      "password": "admin3",
+      "email": "admin3",
+      "firstName": "admin3",
+      "lastName": "admin3"
+    },
+    {
+      "id": "87c2",
+      "username": "admin3",
+      "password": "admin3",
+      "email": "admin3",
+      "firstName": "admin3",
+      "lastName": "admin3"
+    },
+    {
+      "id": "f2fd",
+      "username": "admin3",
+      "password": "admin3",
+      "email": "admin3",
+      "firstName": "admin3",
+      "lastName": "admin3"
+    },
+    {
+      "id": "1d33",
+      "username": "denis",
+      "password": "denis",
+      "email": "denis",
+      "firstName": "denis",
+      "lastName": "denis"
+    },
+    {
+      "id": "d219",
+      "username": "denisko",
+      "password": "denisko"
+    },
+    {
+      "id": "c7d9",
+      "username": "sanya",
+      "password": "sanya",
+      "email": "sanya@gmail.com",
+      "firstName": "sanya",
+      "lastName": "sanya"
+    },
+    {
+      "id": "ffe1",
+      "username": "sanya",
+      "password": "sanya",
+      "email": "sanya@gmail.com",
+      "firstName": "sanya",
+      "lastName": "sanya"
+    },
+    {
+      "id": "cf15",
+      "username": "awd",
+      "password": "wad",
+      "email": "awd",
+      "firstName": "sada",
+      "lastName": "awd"
+    },
+    {
+      "id": "9110",
+      "username": "awd",
+      "password": "awd",
+      "email": "sdawdawd@gmail.com",
+      "firstName": "awd",
+      "lastName": "awd"
+    },
+    {
+      "id": "fa76",
+      "username": "awd",
+      "password": "kuzyakuzya228123",
+      "email": "awd@gmail.com",
+      "firstName": "awdawd",
+      "lastName": "awdwa"
+    }
+  ]
+}

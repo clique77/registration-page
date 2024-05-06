@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "souls";
+  src: url("/fonts/SedanSC-Regular.ttf");
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 2rem;
+  max-width: 100%;
+  margin-left: 1rem;
+}
+
+.left-links {
+  display: flex;
+  align-items: center;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+  font-size: 3rem;
+  font-family: "souls";
+  border-bottom: 2px solid white;
+  padding: 10px;
+  transition: 0.5s;
+  margin-left: 50px;
+}
+
+.navbar a:hover {
+  background-color: #a7fff5;
+  color: black;
+  border-radius: 20px;
+  border-bottom: 2px solid #a7fff5;
+}
